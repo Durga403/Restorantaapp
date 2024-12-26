@@ -1,0 +1,48 @@
+
+
+
+table table{
+
+    height: 400px;
+    width: 300px;
+    justify-content:center ;
+    align-items: center;
+    display: flex;
+}
+input{
+    width: 70%;
+    height: 35px;
+    border: 2px solid rgb(79, 12, 223);
+    font-size: 20px;
+
+}
+td{
+    color: azure;
+}
+
+textarea{
+    height: 40px;
+    width: 70%;
+    border: 2px solid blue;
+}
+
+select{
+    width: 70%;
+    height: 35px;
+    border: 2px solid blue;
+    font-size: 15px;
+}
+
+input [type =button]:hover{
+    background-color: rgb(15, 12, 12);
+
+}
+.form{
+    height: 400px;
+    width: 80%;
+    background: rgb(78, 73, 73);
+    display: flex;
+    justify-content: center;
+    border-top: 10px solid blue;
+    
+}
